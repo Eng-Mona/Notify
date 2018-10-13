@@ -1,3 +1,5 @@
- Demo Url :  https://eng-mona.github.io/Notify-PSD-Theme/
+ Demo URL :
+ https://eng-mona.github.io/Notify-PSD-Theme/
 
-PSD Url: https://graphicburger.com/notify-psd-theme/
+PSD URL:
+https://graphicburger.com/notify-psd-theme/
